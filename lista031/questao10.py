@@ -10,3 +10,10 @@ prestacao = valor + (valor * (taxa / 100) * dias)
 print("O valor da prestação com atraso é:" , prestacao)
 
 
+
+
+
+
+
+
+
